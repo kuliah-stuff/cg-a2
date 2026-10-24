@@ -1,0 +1,145 @@
+{
+  "bunny": {
+    "linear": [
+      {
+        "level": 1,
+        "vertices": 14944,
+        "edges": 29850,
+        "faces": 14904,
+        "boundary_loops": 4,
+        "euler_characteristic": -2,
+        "surface_area": 0.05646863305015512,
+        "obj": "subdivision_results\\bunny-linear-1.obj",
+        "png": "subdivision_results\\bunny-linear-1.png"
+      },
+      {
+        "level": 2,
+        "vertices": 59698,
+        "edges": 119316,
+        "faces": 59616,
+        "boundary_loops": 4,
+        "euler_characteristic": -2,
+        "surface_area": 0.056468633050155134,
+        "obj": "subdivision_results\\bunny-linear-2.obj",
+        "png": "subdivision_results\\bunny-linear-2.png"
+      },
+      {
+        "level": 3,
+        "vertices": 238630,
+        "edges": 477096,
+        "faces": 238464,
+        "boundary_loops": 4,
+        "euler_characteristic": -2,
+        "surface_area": 0.05646863305015515,
+        "obj": "subdivision_results\\bunny-linear-3.obj",
+        "png": "subdivision_results\\bunny-linear-3.png"
+      },
+      {
+        "level": 4,
+        "vertices": 954190,
+        "edges": 1908048,
+        "faces": 953856,
+        "boundary_loops": 4,
+        "euler_characteristic": -2,
+        "surface_area": 0.056468633050155065,
+        "obj": "subdivision_results\\bunny-linear-4.obj",
+        "png": "subdivision_results\\bunny-linear-4.png"
+      }
+    ],
+    "catmull-clark": "rejected: Catmull-Clark requires a closed mesh; 4 boundary loops"
+  },
+  "torus": {
+    "linear": [
+      {
+        "level": 1,
+        "vertices": 288,
+        "edges": 576,
+        "faces": 288,
+        "boundary_loops": 0,
+        "euler_characteristic": 0,
+        "surface_area": 12.823194620304701,
+        "obj": "subdivision_results\\torus-linear-1.obj",
+        "png": "subdivision_results\\torus-linear-1.png"
+      },
+      {
+        "level": 2,
+        "vertices": 1152,
+        "edges": 2304,
+        "faces": 1152,
+        "boundary_loops": 0,
+        "euler_characteristic": 0,
+        "surface_area": 12.8231946203047,
+        "obj": "subdivision_results\\torus-linear-2.obj",
+        "png": "subdivision_results\\torus-linear-2.png"
+      },
+      {
+        "level": 3,
+        "vertices": 4608,
+        "edges": 9216,
+        "faces": 4608,
+        "boundary_loops": 0,
+        "euler_characteristic": 0,
+        "surface_area": 12.823194620304701,
+        "obj": "subdivision_results\\torus-linear-3.obj",
+        "png": "subdivision_results\\torus-linear-3.png"
+      },
+      {
+        "level": 4,
+        "vertices": 18432,
+        "edges": 36864,
+        "faces": 18432,
+        "boundary_loops": 0,
+        "euler_characteristic": 0,
+        "surface_area": 12.823194620304701,
+        "obj": "subdivision_results\\torus-linear-4.obj",
+        "png": "subdivision_results\\torus-linear-4.png"
+      }
+    ],
+    "catmull-clark": [
+      {
+        "level": 1,
+        "vertices": 288,
+        "edges": 576,
+        "faces": 288,
+        "boundary_loops": 0,
+        "euler_characteristic": 0,
+        "surface_area": 11.21931462542547,
+        "obj": "subdivision_results\\torus-catmull-clark-1.obj",
+        "png": "subdivision_results\\torus-catmull-clark-1.png"
+      },
+      {
+        "level": 2,
+        "vertices": 1152,
+        "edges": 2304,
+        "faces": 1152,
+        "boundary_loops": 0,
+        "euler_characteristic": 0,
+        "surface_area": 10.851154359502281,
+        "obj": "subdivision_results\\torus-catmull-clark-2.obj",
+        "png": "subdivision_results\\torus-catmull-clark-2.png"
+      },
+      {
+        "level": 3,
+        "vertices": 4608,
+        "edges": 9216,
+        "faces": 4608,
+        "boundary_loops": 0,
+        "euler_characteristic": 0,
+        "surface_area": 10.761310914224586,
+        "obj": "subdivision_results\\torus-catmull-clark-3.obj",
+        "png": "subdivision_results\\torus-catmull-clark-3.png"
+      },
+      {
+        "level": 4,
+        "vertices": 18432,
+        "edges": 36864,
+        "faces": 18432,
+        "boundary_loops": 0,
+        "euler_characteristic": 0,
+        "surface_area": 10.738988570159988,
+        "obj": "subdivision_results\\torus-catmull-clark-4.obj",
+        "png": "subdivision_results\\torus-catmull-clark-4.png"
+      }
+    ]
+  }
+}

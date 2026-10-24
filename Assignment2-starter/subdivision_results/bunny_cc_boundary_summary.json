@@ -1,0 +1,50 @@
+{
+  "method": "Boundary-aware Catmull-Clark (outside Task 6)",
+  "boundary_rule": "boundary edge midpoint; boundary vertex (6S + N1 + N2)/8",
+  "levels": [
+    {
+      "level": 1,
+      "vertices": 14944,
+      "edges": 29850,
+      "faces": 14904,
+      "euler_characteristic": -2,
+      "boundary_loops": 4,
+      "surface_area": 0.05587671503385966,
+      "obj": "subdivision_results\\bunny-cc-boundary-1.obj",
+      "png": "subdivision_results\\bunny-cc-boundary-1.png"
+    },
+    {
+      "level": 2,
+      "vertices": 59698,
+      "edges": 119316,
+      "faces": 59616,
+      "euler_characteristic": -2,
+      "boundary_loops": 4,
+      "surface_area": 0.05569836910202125,
+      "obj": "subdivision_results\\bunny-cc-boundary-2.obj",
+      "png": "subdivision_results\\bunny-cc-boundary-2.png"
+    },
+    {
+      "level": 3,
+      "vertices": 238630,
+      "edges": 477096,
+      "faces": 238464,
+      "euler_characteristic": -2,
+      "boundary_loops": 4,
+      "surface_area": 0.05564820101880096,
+      "obj": "subdivision_results\\bunny-cc-boundary-3.obj",
+      "png": "subdivision_results\\bunny-cc-boundary-3.png"
+    },
+    {
+      "level": 4,
+      "vertices": 954190,
+      "edges": 1908048,
+      "faces": 953856,
+      "euler_characteristic": -2,
+      "boundary_loops": 4,
+      "surface_area": 0.05563449347163671,
+      "obj": "subdivision_results\\bunny-cc-boundary-4.obj",
+      "png": "subdivision_results\\bunny-cc-boundary-4.png"
+    }
+  ]
+}

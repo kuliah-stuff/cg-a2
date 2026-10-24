@@ -1,0 +1,522 @@
+{
+  "meshes": {
+    "cube": {
+      "original": {
+        "vertices": 8,
+        "edges": 12,
+        "faces": 6,
+        "halfedges": 24,
+        "triangles": 0,
+        "quads": 6,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 24.0,
+        "non4": 8
+      },
+      "linear": {
+        "vertices": 26,
+        "edges": 48,
+        "faces": 24,
+        "halfedges": 96,
+        "triangles": 0,
+        "quads": 24,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 24.0,
+        "non4": 8
+      },
+      "catmull-clark": {
+        "vertices": 26,
+        "edges": 48,
+        "faces": 24,
+        "halfedges": 96,
+        "triangles": 0,
+        "quads": 24,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 11.527744310527055,
+        "non4": 8
+      }
+    },
+    "fan": {
+      "original": {
+        "vertices": 7,
+        "edges": 12,
+        "faces": 6,
+        "halfedges": 24,
+        "triangles": 6,
+        "quads": 0,
+        "polygons": 0,
+        "boundary loops": 1,
+        "boundary vertices": 6,
+        "euler characteristic": 1,
+        "surface area": 2.749545417621227,
+        "non4": 7
+      },
+      "linear": {
+        "vertices": 25,
+        "edges": 42,
+        "faces": 18,
+        "halfedges": 84,
+        "triangles": 0,
+        "quads": 18,
+        "polygons": 0,
+        "boundary loops": 1,
+        "boundary vertices": 12,
+        "euler characteristic": 1,
+        "surface area": 2.749545417621227,
+        "non4": 19
+      }
+    },
+    "grid": {
+      "original": {
+        "vertices": 16,
+        "edges": 24,
+        "faces": 9,
+        "halfedges": 48,
+        "triangles": 0,
+        "quads": 9,
+        "polygons": 0,
+        "boundary loops": 1,
+        "boundary vertices": 12,
+        "euler characteristic": 1,
+        "surface area": 9.12454475603299,
+        "non4": 12
+      },
+      "linear": {
+        "vertices": 49,
+        "edges": 84,
+        "faces": 36,
+        "halfedges": 168,
+        "triangles": 0,
+        "quads": 36,
+        "polygons": 0,
+        "boundary loops": 1,
+        "boundary vertices": 24,
+        "euler characteristic": 1,
+        "surface area": 9.111598608676697,
+        "non4": 24
+      }
+    },
+    "lshape": {
+      "original": {
+        "vertices": 12,
+        "edges": 18,
+        "faces": 8,
+        "halfedges": 36,
+        "triangles": 0,
+        "quads": 6,
+        "polygons": 2,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 23.2,
+        "non4": 12
+      },
+      "linear": {
+        "vertices": 38,
+        "edges": 72,
+        "faces": 36,
+        "halfedges": 144,
+        "triangles": 0,
+        "quads": 36,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 23.2,
+        "non4": 14
+      },
+      "catmull-clark": {
+        "vertices": 38,
+        "edges": 72,
+        "faces": 36,
+        "halfedges": 144,
+        "triangles": 0,
+        "quads": 36,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 14.106305593661233,
+        "non4": 14
+      }
+    },
+    "octahedron": {
+      "original": {
+        "vertices": 6,
+        "edges": 12,
+        "faces": 8,
+        "halfedges": 24,
+        "triangles": 8,
+        "quads": 0,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 6.928203230275509,
+        "non4": 0
+      },
+      "linear": {
+        "vertices": 26,
+        "edges": 48,
+        "faces": 24,
+        "halfedges": 96,
+        "triangles": 0,
+        "quads": 24,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 6.9282032302755105,
+        "non4": 8
+      },
+      "catmull-clark": {
+        "vertices": 26,
+        "edges": 48,
+        "faces": 24,
+        "halfedges": 96,
+        "triangles": 0,
+        "quads": 24,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 3.774917217635374,
+        "non4": 8
+      }
+    },
+    "pyramid": {
+      "original": {
+        "vertices": 5,
+        "edges": 8,
+        "faces": 5,
+        "halfedges": 16,
+        "triangles": 4,
+        "quads": 1,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 11.21110255092798,
+        "non4": 4
+      },
+      "linear": {
+        "vertices": 18,
+        "edges": 32,
+        "faces": 16,
+        "halfedges": 64,
+        "triangles": 0,
+        "quads": 16,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 11.21110255092798,
+        "non4": 8
+      },
+      "catmull-clark": {
+        "vertices": 18,
+        "edges": 32,
+        "faces": 16,
+        "halfedges": 64,
+        "triangles": 0,
+        "quads": 16,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 3.902547150060803,
+        "non4": 8
+      }
+    },
+    "tetrahedron": {
+      "original": {
+        "vertices": 4,
+        "edges": 6,
+        "faces": 4,
+        "halfedges": 12,
+        "triangles": 4,
+        "quads": 0,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 13.856406460551018,
+        "non4": 4
+      },
+      "linear": {
+        "vertices": 14,
+        "edges": 24,
+        "faces": 12,
+        "halfedges": 48,
+        "triangles": 0,
+        "quads": 12,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 13.856406460551018,
+        "non4": 8
+      },
+      "catmull-clark": {
+        "vertices": 14,
+        "edges": 24,
+        "faces": 12,
+        "halfedges": 48,
+        "triangles": 0,
+        "quads": 12,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 3.4298776008267335,
+        "non4": 8
+      }
+    },
+    "torus": {
+      "original": {
+        "vertices": 72,
+        "edges": 144,
+        "faces": 72,
+        "halfedges": 288,
+        "triangles": 0,
+        "quads": 72,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 0,
+        "surface area": 12.8231946203047,
+        "non4": 0
+      },
+      "linear": {
+        "vertices": 288,
+        "edges": 576,
+        "faces": 288,
+        "halfedges": 1152,
+        "triangles": 0,
+        "quads": 288,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 0,
+        "surface area": 12.823194620304701,
+        "non4": 0
+      },
+      "catmull-clark": {
+        "vertices": 288,
+        "edges": 576,
+        "faces": 288,
+        "halfedges": 1152,
+        "triangles": 0,
+        "quads": 288,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 0,
+        "surface area": 11.21931462542547,
+        "non4": 0
+      }
+    }
+  },
+  "flips": {
+    "octahedron": {
+      "counts": {
+        "accepted": 12,
+        "boundary": 0,
+        "nontriangle": 0,
+        "existing diagonal": 0
+      },
+      "example_edges": {
+        "accepted": 0
+      }
+    },
+    "fan": {
+      "counts": {
+        "accepted": 6,
+        "boundary": 6,
+        "nontriangle": 0,
+        "existing diagonal": 0
+      },
+      "example_edges": {
+        "accepted": 0,
+        "boundary": 2
+      }
+    },
+    "pyramid": {
+      "counts": {
+        "accepted": 4,
+        "boundary": 0,
+        "nontriangle": 4,
+        "existing diagonal": 0
+      },
+      "example_edges": {
+        "nontriangle": 0,
+        "accepted": 4
+      }
+    },
+    "tetrahedron": {
+      "counts": {
+        "accepted": 0,
+        "boundary": 0,
+        "nontriangle": 0,
+        "existing diagonal": 6
+      },
+      "example_edges": {
+        "existing diagonal": 0
+      }
+    }
+  },
+  "cube_levels": {
+    "linear": [
+      {
+        "vertices": 8,
+        "edges": 12,
+        "faces": 6,
+        "halfedges": 24,
+        "triangles": 0,
+        "quads": 6,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 24.0,
+        "non4": 8
+      },
+      {
+        "vertices": 26,
+        "edges": 48,
+        "faces": 24,
+        "halfedges": 96,
+        "triangles": 0,
+        "quads": 24,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 24.0,
+        "non4": 8
+      },
+      {
+        "vertices": 98,
+        "edges": 192,
+        "faces": 96,
+        "halfedges": 384,
+        "triangles": 0,
+        "quads": 96,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 24.0,
+        "non4": 8
+      },
+      {
+        "vertices": 386,
+        "edges": 768,
+        "faces": 384,
+        "halfedges": 1536,
+        "triangles": 0,
+        "quads": 384,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 24.0,
+        "non4": 8
+      },
+      {
+        "vertices": 1538,
+        "edges": 3072,
+        "faces": 1536,
+        "halfedges": 6144,
+        "triangles": 0,
+        "quads": 1536,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 24.0,
+        "non4": 8
+      }
+    ],
+    "catmull-clark": [
+      {
+        "vertices": 8,
+        "edges": 12,
+        "faces": 6,
+        "halfedges": 24,
+        "triangles": 0,
+        "quads": 6,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 24.0,
+        "non4": 8
+      },
+      {
+        "vertices": 26,
+        "edges": 48,
+        "faces": 24,
+        "halfedges": 96,
+        "triangles": 0,
+        "quads": 24,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 11.527744310527055,
+        "non4": 8
+      },
+      {
+        "vertices": 98,
+        "edges": 192,
+        "faces": 96,
+        "halfedges": 384,
+        "triangles": 0,
+        "quads": 96,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 9.727717953510119,
+        "non4": 8
+      },
+      {
+        "vertices": 386,
+        "edges": 768,
+        "faces": 384,
+        "halfedges": 1536,
+        "triangles": 0,
+        "quads": 384,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 9.326891134028678,
+        "non4": 8
+      },
+      {
+        "vertices": 1538,
+        "edges": 3072,
+        "faces": 1536,
+        "halfedges": 6144,
+        "triangles": 0,
+        "quads": 1536,
+        "polygons": 0,
+        "boundary loops": 0,
+        "boundary vertices": 0,
+        "euler characteristic": 2,
+        "surface area": 9.229708376870217,
+        "non4": 8
+      }
+    ]
+  }
+}
