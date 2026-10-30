@@ -9,10 +9,10 @@
         "triangles": 0,
         "quads": 6,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 24.0,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 24.0,
         "non4": 8
       },
       "linear": {
@@ -23,10 +23,10 @@
         "triangles": 0,
         "quads": 24,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 24.0,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 24.0,
         "non4": 8
       },
       "catmull-clark": {
@@ -37,10 +37,10 @@
         "triangles": 0,
         "quads": 24,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 11.527744310527055,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 11.527744310527055,
         "non4": 8
       }
     },
@@ -53,10 +53,10 @@
         "triangles": 6,
         "quads": 0,
         "polygons": 0,
-        "boundary loops": 1,
-        "boundary vertices": 6,
-        "euler characteristic": 1,
-        "surface area": 2.749545417621227,
+        "boundary_loops": 1,
+        "boundary_vertices": 6,
+        "euler_characteristic": 1,
+        "surface_area": 2.749545417621227,
         "non4": 7
       },
       "linear": {
@@ -67,10 +67,10 @@
         "triangles": 0,
         "quads": 18,
         "polygons": 0,
-        "boundary loops": 1,
-        "boundary vertices": 12,
-        "euler characteristic": 1,
-        "surface area": 2.749545417621227,
+        "boundary_loops": 1,
+        "boundary_vertices": 12,
+        "euler_characteristic": 1,
+        "surface_area": 2.749545417621227,
         "non4": 19
       }
     },
@@ -83,10 +83,10 @@
         "triangles": 0,
         "quads": 9,
         "polygons": 0,
-        "boundary loops": 1,
-        "boundary vertices": 12,
-        "euler characteristic": 1,
-        "surface area": 9.12454475603299,
+        "boundary_loops": 1,
+        "boundary_vertices": 12,
+        "euler_characteristic": 1,
+        "surface_area": 9.12454475603299,
         "non4": 12
       },
       "linear": {
@@ -97,10 +97,10 @@
         "triangles": 0,
         "quads": 36,
         "polygons": 0,
-        "boundary loops": 1,
-        "boundary vertices": 24,
-        "euler characteristic": 1,
-        "surface area": 9.111598608676697,
+        "boundary_loops": 1,
+        "boundary_vertices": 24,
+        "euler_characteristic": 1,
+        "surface_area": 9.111598608676697,
         "non4": 24
       }
     },
@@ -113,10 +113,10 @@
         "triangles": 0,
         "quads": 6,
         "polygons": 2,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 23.2,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 23.2,
         "non4": 12
       },
       "linear": {
@@ -127,10 +127,10 @@
         "triangles": 0,
         "quads": 36,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 23.2,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 23.2,
         "non4": 14
       },
       "catmull-clark": {
@@ -141,10 +141,10 @@
         "triangles": 0,
         "quads": 36,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 14.106305593661233,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 14.106305593661233,
         "non4": 14
       }
     },
@@ -157,10 +157,10 @@
         "triangles": 8,
         "quads": 0,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 6.928203230275509,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 6.928203230275509,
         "non4": 0
       },
       "linear": {
@@ -171,10 +171,10 @@
         "triangles": 0,
         "quads": 24,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 6.9282032302755105,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 6.9282032302755105,
         "non4": 8
       },
       "catmull-clark": {
@@ -185,10 +185,10 @@
         "triangles": 0,
         "quads": 24,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 3.774917217635374,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 3.774917217635374,
         "non4": 8
       }
     },
@@ -201,10 +201,10 @@
         "triangles": 4,
         "quads": 1,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 11.21110255092798,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 11.21110255092798,
         "non4": 4
       },
       "linear": {
@@ -215,10 +215,10 @@
         "triangles": 0,
         "quads": 16,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 11.21110255092798,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 11.21110255092798,
         "non4": 8
       },
       "catmull-clark": {
@@ -229,10 +229,10 @@
         "triangles": 0,
         "quads": 16,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 3.902547150060803,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 3.902547150060803,
         "non4": 8
       }
     },
@@ -245,10 +245,10 @@
         "triangles": 4,
         "quads": 0,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 13.856406460551018,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 13.856406460551018,
         "non4": 4
       },
       "linear": {
@@ -259,10 +259,10 @@
         "triangles": 0,
         "quads": 12,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 13.856406460551018,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 13.856406460551018,
         "non4": 8
       },
       "catmull-clark": {
@@ -273,10 +273,10 @@
         "triangles": 0,
         "quads": 12,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 3.4298776008267335,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 3.4298776008267335,
         "non4": 8
       }
     },
@@ -289,10 +289,10 @@
         "triangles": 0,
         "quads": 72,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 0,
-        "surface area": 12.8231946203047,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 0,
+        "surface_area": 12.8231946203047,
         "non4": 0
       },
       "linear": {
@@ -303,10 +303,10 @@
         "triangles": 0,
         "quads": 288,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 0,
-        "surface area": 12.823194620304701,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 0,
+        "surface_area": 12.823194620304701,
         "non4": 0
       },
       "catmull-clark": {
@@ -317,10 +317,10 @@
         "triangles": 0,
         "quads": 288,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 0,
-        "surface area": 11.21931462542547,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 0,
+        "surface_area": 11.21931462542547,
         "non4": 0
       }
     }
@@ -383,10 +383,10 @@
         "triangles": 0,
         "quads": 6,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 24.0,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 24.0,
         "non4": 8
       },
       {
@@ -397,10 +397,10 @@
         "triangles": 0,
         "quads": 24,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 24.0,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 24.0,
         "non4": 8
       },
       {
@@ -411,10 +411,10 @@
         "triangles": 0,
         "quads": 96,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 24.0,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 24.0,
         "non4": 8
       },
       {
@@ -425,10 +425,10 @@
         "triangles": 0,
         "quads": 384,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 24.0,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 24.0,
         "non4": 8
       },
       {
@@ -439,10 +439,10 @@
         "triangles": 0,
         "quads": 1536,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 24.0,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 24.0,
         "non4": 8
       }
     ],
@@ -455,10 +455,10 @@
         "triangles": 0,
         "quads": 6,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 24.0,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 24.0,
         "non4": 8
       },
       {
@@ -469,10 +469,10 @@
         "triangles": 0,
         "quads": 24,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 11.527744310527055,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 11.527744310527055,
         "non4": 8
       },
       {
@@ -483,10 +483,10 @@
         "triangles": 0,
         "quads": 96,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 9.727717953510119,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 9.727717953510119,
         "non4": 8
       },
       {
@@ -497,10 +497,10 @@
         "triangles": 0,
         "quads": 384,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 9.326891134028678,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 9.326891134028678,
         "non4": 8
       },
       {
@@ -511,10 +511,10 @@
         "triangles": 0,
         "quads": 1536,
         "polygons": 0,
-        "boundary loops": 0,
-        "boundary vertices": 0,
-        "euler characteristic": 2,
-        "surface area": 9.229708376870217,
+        "boundary_loops": 0,
+        "boundary_vertices": 0,
+        "euler_characteristic": 2,
+        "surface_area": 9.229708376870217,
         "non4": 8
       }
     ]

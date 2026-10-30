@@ -24,8 +24,8 @@ def connectivity(mesh):
 class AssignmentChecks(unittest.TestCase):
     def test_all_inputs_traversal_geometry_and_summary(self):
         required = {'vertices', 'edges', 'faces', 'halfedges', 'triangles',
-                    'quads', 'polygons', 'boundary loops', 'boundary vertices',
-                    'euler characteristic', 'surface area'}
+                    'quads', 'polygons', 'boundary_loops', 'boundary_vertices',
+                    'euler_characteristic', 'surface_area'}
         for name in NAMES:
             with self.subTest(mesh=name):
                 mesh = load_obj(MESHES / f'{name}.obj')
@@ -45,9 +45,9 @@ class AssignmentChecks(unittest.TestCase):
                     self.assertTrue(all(not f.is_boundary for f in student.vertex_faces(vertex)))
                 summary = student.mesh_summary(mesh)
                 self.assertEqual(set(summary), required)
-                self.assertEqual(summary['euler characteristic'],
+                self.assertEqual(summary['euler_characteristic'],
                                  len(mesh.vertices) - len(mesh.edges) + len(mesh.faces))
-                self.assertEqual(summary['boundary vertices'],
+                self.assertEqual(summary['boundary_vertices'],
                                  sum(any(h.face.is_boundary or h.twin.face.is_boundary
                                          for h in student.vertex_halfedges(v))
                                      for v in mesh.vertices))
@@ -161,10 +161,10 @@ class AssignmentChecks(unittest.TestCase):
             with self.subTest(mesh=name):
                 summary = student.mesh_summary(load_obj(MESHES / f'{name}.obj'))
                 self.assertEqual((summary['vertices'], summary['edges'],
-                                  summary['faces'], summary['euler characteristic']),
+                                  summary['faces'], summary['euler_characteristic']),
                                  (V, E, F, chi))
                 if area is not None:
-                    self.assertAlmostEqual(summary['surface area'], area)
+                    self.assertAlmostEqual(summary['surface_area'], area)
         for operation in (student.subdivide_linear, student.subdivide_catmull_clark):
             mesh = load_obj(MESHES / 'cube.obj')
             for level in range(1, 5):

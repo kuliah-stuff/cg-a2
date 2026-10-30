@@ -87,10 +87,10 @@ def mesh_summary(mesh):
         'triangles': sides.count(3),
         'quads': sides.count(4),
         'polygons': sum(n > 4 for n in sides),
-        'boundary loops': len(mesh.boundary_faces),
-        'boundary vertices': sum(is_boundary_vertex(v) for v in mesh.vertices),
-        'euler characteristic': len(mesh.vertices) - len(mesh.edges) + len(mesh.faces),
-        'surface area': float(sum(face_area(f) for f in mesh.faces)),
+        'boundary_loops': len(mesh.boundary_faces),
+        'boundary_vertices': sum(is_boundary_vertex(v) for v in mesh.vertices),
+        'euler_characteristic': len(mesh.vertices) - len(mesh.edges) + len(mesh.faces),
+        'surface_area': float(sum(face_area(f) for f in mesh.faces)),
     }
 
 
@@ -108,7 +108,7 @@ def flip_edge(mesh, edge):
     bc, ca = ab.next, ab.next.next
     ad, db = ba.next, ba.next.next
     c, d = bc.vertex, ad.vertex
-    if any(h.vertex is d for h in vertex_halfedges(c)):
+    if c is d or any(h.vertex is d for h in vertex_halfedges(c)):
         raise ValueError('opposite vertices already share an edge')
 
     f0, f1 = ab.face, ba.face

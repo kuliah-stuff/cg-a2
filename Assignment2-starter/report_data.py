@@ -98,7 +98,7 @@ def main():
     for name, results in data['flips'].items():
         print(name, results)
     for scheme, rows in data['cube_levels'].items():
-        print(scheme, [(r['vertices'], r['faces'], round(r['surface area'], 6),
+        print(scheme, [(r['vertices'], r['faces'], round(r['surface_area'], 6),
                         r['non4']) for r in rows])
 
 

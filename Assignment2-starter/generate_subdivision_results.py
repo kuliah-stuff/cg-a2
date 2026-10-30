@@ -172,9 +172,9 @@ def torus_both():
             summary = student.mesh_summary(mesh)
             row = {'level': level, 'vertices': summary['vertices'],
                    'edges': summary['edges'], 'faces': summary['faces'],
-                   'boundary_loops': summary['boundary loops'],
-                   'euler_characteristic': summary['euler characteristic'],
-                   'surface_area': summary['surface area'],
+                   'boundary_loops': summary['boundary_loops'],
+                   'euler_characteristic': summary['euler_characteristic'],
+                   'surface_area': summary['surface_area'],
                    'obj': str(obj_path.relative_to(ROOT)),
                    'png': str(png_path.relative_to(ROOT))}
             rows.append(row)
